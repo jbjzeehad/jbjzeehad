@@ -1,9 +1,13 @@
+![MasterHead](https://cdn.theatlantic.com/thumbor/EyIGWRWgOmePbV-cZKnzW9PCXpo=/media/img/posts/2016/10/hack_attempt-1/original.gif)
+
 <h1 align="center">Hi 👋, I'm Jbj Zeehad</h1>
+
 <h3 align="center">🔸A Man On A Mission🔸</h3>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /> </p>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
