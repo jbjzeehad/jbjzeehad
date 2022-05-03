@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bu.edu/cs/files/2017/03/giphy.gif)]
+![MasterHead](https://www.bu.edu/cs/files/2017/03/giphy.gif)
 <h1 align="center">Hi 👋, I'm Jbj Zeehad</h1>
 <h3 align="center">🔸A Man On A Mission🔸</h3>
 
