@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.theatlantic.com/thumbor/EyIGWRWgOmePbV-cZKnzW9PCXpo=/media/img/posts/2016/10/hack_attempt-1/original.gif)
+
 
 <h1 align="center">Hi 👋, I'm Jbj Zeehad</h1>
 
