@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jbj Zeehad</h1>
-<h4 align="center">🔸WORK HARD IN SILENCE LET SUCCESS MAKE THE NOISE🔸</h4>
+<h4 align="center">WORK HARD IN SILENCE LET SUCCESS MAKE THE NOISE</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /> </p>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
