@@ -20,11 +20,17 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </a> </p>
 
+
+<p align="center">
+   <a href="https://github.com/jbjzeehad/github-readme-streak-stats">
+        <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+  </p>
+
 ##
+
  <br/>
   <a href="https://github.com/jbjzeehad/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=jbjzeehad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/jbjzeehad/github-readme-streak-stats">
-        <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+  
 <br/>
 <a href="https://github.com/jbjzeehad/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=jbjzeehad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
