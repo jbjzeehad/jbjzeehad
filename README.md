@@ -35,7 +35,7 @@
 <a href="https://github.com/jbjzeehad/github-readme-activity-graph"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=jbjzeehad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Connect with me:  
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px"> Connect with me:  
 <p align="left">
 <a href="https://linkedin.com/in/jbjzeehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbjzeehad" height="30" width="40" /></a>
 <a href="https://fb.com/piousabstinent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piousabstinent/" height="30" width="40" /></a>
