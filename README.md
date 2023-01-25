@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /></p>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Python & Wev Development**
+- 🌱 I’m currently learning **Wev Development**
 - 👉 Many more to come. See you later
 - ⚡ Fun fact **I love you too 💖**
   
@@ -38,7 +38,6 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px"> Connect with me:  
 <p align="left">
 <a href="https://linkedin.com/in/jbjzeehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbjzeehad" height="30" width="40" /></a>
-<a href="https://fb.com/piousabstinent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piousabstinent/" height="30" width="40" /></a>
 <a href="https://instagram.com/jbjzeehad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jbjzeehad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCQe_a1sZwvyQ_ADxyIJ_Sjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucqe_a1szwvyq_adxyij_sjg" height="30" width="40" /></a>
 </p>
