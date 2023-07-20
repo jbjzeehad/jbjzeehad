@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /></p>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Python**
-- 👉 Many more to come. See you later
-- ⚡ Fun fact **I love you too 💖**
+- 🌱 I’m an **Autodidact**
+- 👉 IT Enthusiast
+- ⚡ **A Man on a Mission**
   
 ## 🚀 Languages and Tools
 <p align="left"> 
