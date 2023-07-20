@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /></p>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Wev Development**
+- 🌱 I’m currently learning **Python**
 - 👉 Many more to come. See you later
 - ⚡ Fun fact **I love you too 💖**
   
