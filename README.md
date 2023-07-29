@@ -20,10 +20,10 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></p>
     
-<b>Programming Languages</b> : C, C++, Python<br>
-<b>Markup Language</b> : HTML<br>
-<b>Style Sheet Language</b> : CSS<br>
-<b>Toolkit</b> : Visual Studio Code, PyCharm
+Programming Languages : C, C++, <b>Python</b><br>
+Markup Language : HTML<br>
+Style Sheet Language : CSS<br>
+Toolkit : PyCharm, <b>Visual Studio Code</b> 
 
 <p align="center">
    <a href="https://github.com/jbjzeehad/github-readme-streak-stats">
