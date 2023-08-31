@@ -32,12 +32,9 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Arduino.svg" alt="html" width="40" height="40"/></a>
   </p>
   <br>
-  <p>
-  5 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/> Python<br>
-  4 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
-  3 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
-  2 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
-  1 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
+  <p> 
+  <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="35" height="35"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/> <h3>Python, HTML5, CSS3, BootStrap</h3><br>
+  
   </p>
     Programming Languages : C, C++, <b>Python</b><br>
 Markup Language : HTML<br>
