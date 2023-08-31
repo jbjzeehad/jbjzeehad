@@ -31,8 +31,15 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Arduino.svg" alt="html" width="40" height="40"/></a>
   </p>
-    
-Programming Languages : C, C++, <b>Python</b><br>
+  <br>
+  <p>
+  5 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/> Python<br>
+  4 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
+  3 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
+  2 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
+  1 <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="16" height="16"/><br>
+  </p>
+    Programming Languages : C, C++, <b>Python</b><br>
 Markup Language : HTML<br>
 Style Sheet Language : CSS<br>
 Toolkit : PyCharm, <b>Visual Studio Code</b> 
