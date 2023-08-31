@@ -23,8 +23,13 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="40" height="40"/></a> - 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Git.svg" alt="html" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Github-Dark.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Photoshop.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Premiere.svg" alt="html" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Figma-Dark.svg" alt="html" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="40" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Arduino.svg" alt="html" width="40" height="40"/></a>
   </p>
     
 Programming Languages : C, C++, <b>Python</b><br>
