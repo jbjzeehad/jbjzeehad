@@ -8,7 +8,7 @@
 - 👉 IT Enthusiast
 - ⚡ **A Man on a Mission**
   
-## 🚀 Languages and Tools
+## 🚀 Languages, Tools and Skills
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="40" height="40"/></a>
@@ -31,15 +31,11 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Arduino.svg" alt="html" width="40" height="40"/></a>
   </p>
-  <br>
-  <p> 
-  <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="35" height="35"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/> <h3>Python, HTML5, CSS3, BootStrap</h3><br>
-  
-  </p>
-    Programming Languages : C, C++, <b>Python</b><br>
-Markup Language : HTML<br>
-Style Sheet Language : CSS<br>
-Toolkit : PyCharm, <b>Visual Studio Code</b> 
+  <p><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="35" height="35"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><h3>Python, HTML5, CSS3, Git, Github, VSCode</h3></p>
+  <p><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><h3>JavaScript, Bootstrap</h3></p>
+  <p><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><h3>C++, Photoshop, Premiere Pro, Arduino</h3></p>
+  <p><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><h3>C, Figma</h3></p>
+  <p><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><h3>TailwindCSS</h3></p>
 
 <p align="center">
    <a href="https://github.com/jbjzeehad/github-readme-streak-stats">
