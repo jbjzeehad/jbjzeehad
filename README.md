@@ -1,13 +1,13 @@
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/> 
-<img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/>
-
-## 🙋‍♂️ About Me
-- 🌱 I’m an **Autodidact**
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/></p>
+<p>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+🙋‍♂️
+- 🌱 I’m an Autodidact
 - 👉 IT Enthusiast
-- ⚡ **A Man on a Mission**
-
-
-## 🚀 Languages, Tools and Skills
+- ⚡ A Man on a Mission  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</p>
+<h3> 🚀 Languages, Tools and Skills:</h3>
+<br>
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="40" height="40"/></a>
