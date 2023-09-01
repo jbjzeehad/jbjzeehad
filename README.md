@@ -1,5 +1,8 @@
+<p align="center">
+<img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 <h4 align="center">WORK HARD IN SILENCE<br>LET SUCCESS MAKE THE NOISE</h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /></p>
+</p>
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m an **Autodidact**
