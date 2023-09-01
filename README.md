@@ -38,7 +38,9 @@
 <p align="center">
    <a href="https://github.com/jbjzeehad/github-readme-streak-stats">
         <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbjzeehad&show_icons=true&locale=en&theme=black-ice&background=0D1117&hide_border=true"/>
+</p>
+
   
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px"> Connect with me:  
 <p align="left">
