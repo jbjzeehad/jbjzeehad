@@ -1,11 +1,15 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/></p>
 <p>
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-🙋‍♂️
+
+  🙋‍♂️
 - 🌱 I’m an Autodidact
 - 👉 IT Enthusiast
-- ⚡ A Man on a Mission  saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- ⚡ A Man on a Mission
 </p>
+
+
+
 <h3> 🚀 Languages, Tools and Skills:</h3>
 <br>
 <p align="left">
