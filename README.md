@@ -1,14 +1,12 @@
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-<h4 align="center">WORK HARD IN SILENCE<br>LET SUCCESS MAKE THE NOISE</h4>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad" /></p>
-</p>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/> 
+<img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/>
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m an **Autodidact**
 - 👉 IT Enthusiast
 - ⚡ **A Man on a Mission**
-  
+
+
 ## 🚀 Languages, Tools and Skills
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="40" height="40"/></a>
