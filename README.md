@@ -1,15 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/></p>
-<p align="center"><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/LinkedIn.svg" alt="html" width="30" height="30"/></a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Youtube.svg" alt="html" width="30" height="30"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Discord.svg" alt="html" width="30" height="30"/></a></p>
+<p align="center"><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/LinkedIn.svg" alt="html" width="30" height="30"/></a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Youtube.svg" alt="html" width="30" height="30"/></a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Discord.svg" alt="html" width="30" height="30"/></a></p>
 <p align="center">Work Hard In Silence<br>Let Success Make The Noise</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/></p>
+<p>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px">
   
-  🙋‍♂️
 - 🌱 I’m an Autodidact
 - 👉 IT Enthusiast🚀
 -  A Man on a Mission
 </p>
-
 <hr>
 <h3 align="center">⚡Languages, Tools and Skills⚡</h3>
 <br>
@@ -48,11 +47,4 @@
     <h4 align="center">TailwindCSS</h4></p>
   <hr>
 <p align="center">
-   <a href="https://github.com/jbjzeehad/github-readme-streak-stats">
-        <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbjzeehad&show_icons=true&locale=en&theme=black-ice&background=0D1117&hide_border=true"/>
-</p>
-
-  
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px"> Connect with me:  
-
+   <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a></p>
