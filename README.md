@@ -44,6 +44,5 @@
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/LinkedIn.svg" alt="html" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Discord.svg" alt="html" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/LinkedIn.svg" alt="html" width="40" height="40"/></a>
 
 </p>
