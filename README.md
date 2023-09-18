@@ -51,4 +51,8 @@
    <hr>
    <p align="center">
    <a href=""><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/github_2022.png"/></a></p>
-   
+<hr>
+<div align="left">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbjzeehad&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  </div>
