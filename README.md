@@ -6,11 +6,11 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="35px">
   
 - 🌱 I’m an Autodidact
-- 👉 IT Enthusiast🚀
--  A Man on a Mission
+- 👉 IT Enthusiast
+- 🚀 A Man on a Mission
 </p>
 <hr>
-<h3 align="center">⚡Languages, Tools and Skills⚡</h3>
+<p align="center">⚡Languages, Tools and Skills⚡</p>
 <br>
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="40" height="40"/></a>
