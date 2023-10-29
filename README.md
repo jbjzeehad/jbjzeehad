@@ -35,18 +35,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Arduino.svg" alt="html" width="40" height="40"/></a>
   </p>
   <hr>
-  <!--
-  <p align="center"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="35" height="35"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/>
-    <h4 align="center">Python, HTML5, CSS3, Git, Github, VSCode</h4></p>
-  <p align="center"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="30" height="30"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/>
-    <h4 align="center">JavaScript, Bootstrap</h4></p>
-  <p align="center"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="25" height="25"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/>
-    <h4 align="center">C++, Photoshop, Premiere Pro</h4></p>
-  <p align="center"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="20" height="20"/><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/> 
-    <h4 align="center">C, Figma, Arduino</h4></p>
-  <p align="center"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/star.png" alt="html" width="15" height="15"/>
-    <h4 align="center">TailwindCSS</h4></p>
-  <hr> -->
 <p align="center">
    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a></p>
    <hr>
