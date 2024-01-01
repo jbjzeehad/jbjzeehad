@@ -1,14 +1,13 @@
-<p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/></p>
-<p align="center"><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/LinkedIn.svg" alt="html" width="30" height="30"/></a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Youtube.svg" alt="html" width="30" height="30"/></a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Discord.svg" alt="html" width="30" height="30"/></a></p>
-<p align="center">Work Hard In Silence<br>Let Success Make The Noise</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/></p>
-<p>
-  
+### Hey! Nice to see you.
+
+- 👽 I'm Jubayer
 - 🌱 I’m an Autodidact
 - 👉 IT Enthusiast
 - 🚀 A Man on a Mission
-</p>
-<hr>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jbjzeehad/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/21117227/jubayer-bin-jaman) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbhakJ5gx5rDHpaPHEXQ8ew)
+<p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100" height="auto"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat" alt="jbjzeehad"/></p>
 <p align="center">⚡Languages, Tools and Skills⚡</p>
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
@@ -50,6 +49,7 @@
     <td valign="top"><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2022_github.png"/></td>
   </tr>
 </table>
-<p align="left"> 
-  
+<!--
+<p align="right">   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbjzeehad&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </p>
+-->
