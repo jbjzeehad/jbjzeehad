@@ -10,7 +10,6 @@
 </p>
 <hr>
 <p align="center">⚡Languages, Tools and Skills⚡</p>
-<br>
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="30" height="30"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="30" height="30"/></a>
@@ -33,17 +32,15 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="30" height="30"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Arduino.svg" alt="html" width="30" height="30"/></a>
   </p>
-   <table>
-  <tr>
-    <td valign="top"><a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a></td>
-    <td valign="top"> 
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbjzeehad&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </td>
-  </tr>
-</table>
+    <p align="center">
+    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+    </p> 
 <table>
   <tr>
     <td valign="top"><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2023_github.png"/></td>
     <td valign="top"><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2022_github.png"/></td>
   </tr>
 </table>
+<p align="left"> 
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jbjzeehad&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </p>
