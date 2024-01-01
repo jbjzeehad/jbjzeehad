@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbjzeehad/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/otodiedakt) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21117227/jubayer-bin-jaman) [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbhakJ5gx5rDHpaPHEXQ8ew)](https://www.youtube.com/channel/UCbhakJ5gx5rDHpaPHEXQ8ew)
-<p>I'm Jubayer from Dhaka, Bangladesh. A self-taught hard-working person with a huge love and passion for Full Stack Web Development. Currently, I'm open to work and employment opportunities (On-site/Hybrid/Remote)</p>
+<p>I'm Jubayer from Dhaka, Bangladesh. A self-taught hard-working person with a huge love and passion for Full Stack Web Development. Currently, I'm open to work and employment opportunities (On-site/Remote)</p>
 <p>I also love to read books and research about Human Psychology. Spend my free time in physical activities like sports and fitness.</p>
 
 - 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
