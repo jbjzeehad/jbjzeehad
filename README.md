@@ -38,7 +38,7 @@
    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a></p>
    <hr>
    <p align="center">
-   <a href=""><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/github_2022.png"/></a></p>
+   <a href=""><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/"/></a></p>
 <hr>
 <div align="left">
   
