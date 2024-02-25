@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently focused on Front-End technologies.
 - 💬 So, Ask me anything and share your knowledge with me.
-- 📫 I am just one mail away - jbjzeehad.1@gmail.com
+- 📫 I am just one mail away - jbjaman98@gmail.com
 - 👆 Social links to reach me close.
 
 <p align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100" height="auto"/></p>
