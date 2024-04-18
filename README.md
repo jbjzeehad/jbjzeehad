@@ -1,13 +1,19 @@
-# Hey! Nice to see you.
-![Profile](https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbjzeehad/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nbugdev.bd) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21117227/jubayer-bin-jaman) [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCbhakJ5gx5rDHpaPHEXQ8ew)](https://www.youtube.com/channel/UCbhakJ5gx5rDHpaPHEXQ8ew)
-<p>I'm Jubayer from Dhaka, Bangladesh. A self-taught hard-working person with a huge love and passion for Full Stack Software Engineer. Currently, I'm open to work and employment opportunities.</p>
+<h1 align="center" >Hey! Nice to see you.</h1>
+<P align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></P>
+<p align="center">I'm Jubayer from Dhaka, Bangladesh. A self-taught hard-working person with a huge love and passion for Full Stack Software Engineer. Currently, I'm open to work and employment opportunities.</p>
 
-- 🌱 I’m currently focused on Front-End technologies.
-- 💬 So, Ask me anything and share your knowledge with me.
-- 📫 I am just one mail away - jbjaman98@gmail.com
-- 👆 Social links to reach me close.
-  
-<p align="center">⚡Languages, Tools and Skills⚡</p>
+- 🌱 *I’m currently focused on Front-End technologies.*
+- 🔭 *Working on some projects and learning new technologies.*
+- 💬 *Ask me - jbjaman98@gmail.com or share your thoughts.*
+- 🗣️ *" Consistency is the key! "*
+- 👇 *Social links to reach me closely.*
+<P>
+<a href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://facebook.com/nbugdev.bd"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/21117227/jubayer-bin-jaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCbhakJ5gx5rDHpaPHEXQ8ew"><img src="https://img.shields.io/youtube/channel/subscribers/UCbhakJ5gx5rDHpaPHEXQ8ew"/></a>
+</P>
+<h2 align="center">⚡Languages, Tools and Skills⚡</h2>
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="25" height="25"/></a>
@@ -51,5 +57,3 @@
     <td valign="center"><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2022_github.png"/></td>
   </tr>
 </table>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jbjzeehad) 
