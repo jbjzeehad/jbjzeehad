@@ -13,7 +13,10 @@
 <a href="https://stackoverflow.com/users/21117227/jubayer-bin-jaman"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCbhakJ5gx5rDHpaPHEXQ8ew"><img src="https://img.shields.io/youtube/channel/subscribers/UCbhakJ5gx5rDHpaPHEXQ8ew"/></a>
 </P>
-<h2 align="center">⚡Languages, Tools and Skills⚡</h2>
+<h2></h2>
+<p align="center">
+    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+    </p> 
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CPP.svg" alt="html" width="25" height="25"/></a>
@@ -31,23 +34,20 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Vite-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/ExpressJS-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NodeJS-Dark.svg" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/GraphQL-Dark.svg" width="25" height="25"/></a>.
+<!--<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/GraphQL-Dark.svg" width="25" height="25"/></a>-->.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Firebase-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Jest.svg" alt="html" width="25" height="25"/></a>
+  <!--<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Jest.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Docker.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/AWS-Dark.svg" alt="html" width="25" height="25"/></a>.
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/AWS-Dark.svg" alt="html" width="25" height="25"/></a>.-->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Git.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Github-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/VSCode-Dark.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Photoshop.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Premiere.svg" alt="html" width="25" height="25"/></a>
-  </p>
-    <p align="center">
-    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
-    </p> 
+  </p>  
   <p align="center">
   <img title="" alt="" src="https://github-profile-trophy.vercel.app/?username=jbjzeehad&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
     </p>
