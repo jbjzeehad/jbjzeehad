@@ -15,7 +15,7 @@
 </P>
 <h2></h2>
 <p align="center">
-    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+    <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=transparent&hide_border=true&stroke=0000"/></a>
     </p> 
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/C.svg" alt="html" width="25" height="25"/></a>
@@ -51,9 +51,13 @@
   <p align="center">
   <img title="" alt="" src="https://github-profile-trophy.vercel.app/?username=jbjzeehad&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
     </p>
-<table>
+<table align="center">
+    <tr>
+        <td><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jbjzeehad&hide_title=true&show_icons=true&hide_border=true&theme=transparent&text_color=008080&include_all_commits=true&rank_icon=percentile&show=prs_merged&hide=contribs,issues" /></td>
+        <td><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbjzeehad&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=transparent&langs_count=20&text_color=008080" /></td>
+    </tr>
   <tr>
-    <td valign="center"><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2023_github.png"/></td>
-    <td valign="center"><img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2022_github.png"/></td>
+    <td><img title="" align="center" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2023_github.png"/></td>
+    <td><img title="" align="center" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/2022_github.png"/></td>
   </tr>
 </table>
