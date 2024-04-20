@@ -54,6 +54,6 @@
 <table align="center">
     <tr>
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbjzeehad&hide_title=true&show_icons=true&hide_border=true&theme=transparent&text_color=008080&include_all_commits=true&rank_icon=percentile&show=prs_merged&hide=contribs,issues" /></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbjzeehad&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=transparent&langs_count=20&text_color=008080" /></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbjzeehad&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=transparent&langs_count=10&text_color=008080" /></td>
     </tr>
 </table>
