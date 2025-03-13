@@ -2,7 +2,7 @@
 <P align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></P>
 <p align="center">I'm Jubayer from Dhaka, Bangladesh. A self-taught hard-working person with a huge love and passion for Full Stack Software Engineer. Currently, I'm open to work and employment opportunities.</p>
 
-- 🌱 *I’m currently focused on Back-End technologies.*
+- 🌱 *I’m currently focused on Full-Stack roadmap.*
 - 🔭 *Working on some projects and learning new technologies.*
 - 💬 *Ask me - jbjaman98@gmail.com or share your thoughts.*
 - 🗣️ *" Consistency is the key! "*
