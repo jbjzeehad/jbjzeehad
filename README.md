@@ -26,8 +26,8 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/HTML.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CSS.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/TailwindCSS-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Figma-Dark.svg" alt="html" width="25" height="25"/></a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Bootstrap.svg" alt="html" width="25" height="25"/></a>.
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Figma-Dark.svg" alt="html" width="25" height="25"/></a>.
+<!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Bootstrap.svg" alt="html" width="25" height="25"/></a>-->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/React-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Redux.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NextJS-Dark.svg" alt="html" width="25" height="25"/></a>.
