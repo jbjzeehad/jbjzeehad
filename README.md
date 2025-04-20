@@ -7,6 +7,46 @@
 - 💬 *Ask me - jbjaman98@gmail.com or share your thoughts.*
 - 🗣️ *" Consistency is the key! "*
 - 👇 *Social links to reach me closely.*
+
+**Languages**:  
+- **C** (System programming, embedded systems)  
+- **C++** (OOP, performance-critical applications)  
+- **Python** (Data Science, Automation, Backend development)  
+- **JavaScript** (Frontend, Backend with Node.js)  
+- **TypeScript** (Static typing for JavaScript, large-scale projects)
+
+**Markup & Styling**:  
+- **HTML** (Semantic markup, accessibility)  
+- **CSS** (Responsive design, Flexbox, Grid)  
+- **Tailwind CSS** (Utility-first CSS framework)
+
+**Frameworks**:  
+- **Next.js** (SSR, Static Site Generation, API Routes)  
+- **Express.js** (API development, Middleware, RESTful APIs)  
+- **Jest** (JavaScript Testing Framework)
+
+**Libraries**:  
+- **React** (Hooks, Context API, Functional components)  
+- **Redux** (State management, Actions, Reducers)
+
+**Tools**:  
+- **Figma** (UI/UX Design, Prototyping)  
+- **Vite** (Fast build tool, Development environment setup)  
+- **Git** (Version control system)  
+- **GitHub** (Version control hosting platform)  
+- **VS Code** (Code editor)  
+- **Photoshop** (Image editing software)  
+- **Premiere Pro** (Video editing software)
+
+**Technologies**:  
+- **Node.js** (Server-side JavaScript, API development)  
+- **GraphQL** (Efficient querying, Data fetching)  
+- **Firebase** (Authentication, Real-time Database, Hosting)  
+- **SQL** (Database management and querying)  
+- **PostgreSQL** (Relational Database Management System)  
+- **MongoDB** (NoSQL Database)  
+- **Docker** (Containerization platform)  
+- **AWS** (Amazon Web Services)
 <P>
 <a target="_blank" href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
