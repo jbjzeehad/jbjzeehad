@@ -23,11 +23,12 @@
 **Frameworks**:  
 - **Next.js** (SSR, Static Site Generation, API Routes)  
 - **Express.js** (API development, Middleware, RESTful APIs)  
-- **Jest** (JavaScript Testing Framework)
+<!-- **Jest** (JavaScript Testing Framework) -->
 
 **Libraries**:  
 - **React** (Hooks, Context API, Functional components)  
 - **Redux** (State management, Actions, Reducers)
+- **Mongoose** (ODM, Schema, Models, Validation, Middleware)
 
 **Tools**:  
 - **Figma** (UI/UX Design, Prototyping)  
@@ -78,8 +79,9 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Firebase-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>.
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Jest.svg" alt="html" width="25" height="25"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>
+<!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Jest.svg" alt="html" width="25" height="25"/></a> -->
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/mongoose.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Docker.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/AWS-Dark.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Git.svg" alt="html" width="25" height="25"/></a>
