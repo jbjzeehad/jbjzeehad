@@ -1,4 +1,6 @@
-<h1 align="center" >Hey! Nice to see you.</h1>
+<img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/lnkdincover.png"/>
+
+<!--<h1 align="center" >Hey! Nice to see you.</h1>-->
 <P align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></P>
 <p align="center">I'm Jubayer from Dhaka, Bangladesh. A self-taught hard-working person with a huge love and passion for Full Stack Software Engineer. Currently, I'm open to work and employment opportunities.</p>
 
@@ -7,7 +9,7 @@
 - 💬 *Ask me - jbjaman98@gmail.com or share your thoughts.*
 - 🗣️ *" Consistency is the key! "*
 - 👇 *Social links to reach me closely.*
-
+<!--
 **Languages**:  
 - **C** (System programming, embedded systems)  
 - **C++** (OOP, performance-critical applications)  
@@ -23,7 +25,7 @@
 **Frameworks**:  
 - **Next.js** (SSR, Static Site Generation, API Routes)  
 - **Express.js** (API development, Middleware, RESTful APIs)  
-<!-- **Jest** (JavaScript Testing Framework) -->
+- **Jest** (JavaScript Testing Framework) 
 
 **Libraries**:  
 - **React** (Hooks, Context API, Functional components)  
@@ -47,7 +49,7 @@
 - **PostgreSQL** (Relational Database Management System)  
 - **MongoDB** (NoSQL Database)  
 - **Docker** (Containerization platform)  
-- **AWS** (Amazon Web Services)
+- **AWS** (Amazon Web Services) -->
 <P>
 <a target="_blank" href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
