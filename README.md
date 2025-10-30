@@ -1,4 +1,4 @@
-<img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/lnkdincover.png"/>
+<img title="" alt="" src="https://github.com/jbjzeehad/jbjzeehad/blob/main/coverImageLinkedIn.png"/>
 <div >
 <a target="_blank" href="https://linkedin.com/in/jbjzeehad/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/zeinexhub"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
