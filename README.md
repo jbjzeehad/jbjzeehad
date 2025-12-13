@@ -8,7 +8,7 @@
 
 <h3 align="center">Hey! Nice to see you</h3>
 
-<p align="center">I'm Jubayer from Dhaka, Bangladesh. A self-taught and hard-working person with a huge love and passion for Full Stack Software Engineering.</p>
+<p align="center">I'm Jubayer from Bangladesh. A self-taught and hard-working person with a huge love and passion for Full Stack Software Engineering.</p>
 
 <p align="center"><a><img src="https://komarev.com/ghpvc/?username=jbjzeehad&label=Profile%20views&color=0e75b6&style=flat"/></a></p>
 
