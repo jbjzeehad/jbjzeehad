@@ -16,47 +16,7 @@
 - 🗣️ *" Consistency is the key! "*
 - 👆 *Social links to reach me closely.*
 
-<!--
-**Languages**:  
-- **C** (System programming, embedded systems)  
-- **C++** (OOP, performance-critical applications)  
-- **Python** (Data Science, Automation, Backend development)  
-- **JavaScript** (Frontend, Backend with Node.js)  
-- **TypeScript** (Static typing for JavaScript, large-scale projects)
 
-**Markup & Styling**:  
-- **HTML** (Semantic markup, accessibility)  
-- **CSS** (Responsive design, Flexbox, Grid)  
-- **Tailwind CSS** (Utility-first CSS framework)
-
-**Frameworks**:  
-- **Next.js** (SSR, Static Site Generation, API Routes)  
-- **Express.js** (API development, Middleware, RESTful APIs)  
-- **Jest** (JavaScript Testing Framework) 
-
-**Libraries**:  
-- **React** (Hooks, Context API, Functional components)  
-- **Redux** (State management, Actions, Reducers)
-- **Mongoose** (ODM, Schema, Models, Validation, Middleware)
-
-**Tools**:  
-- **Figma** (UI/UX Design, Prototyping)  
-- **Vite** (Fast build tool, Development environment setup)  
-- **Git** (Version control system)  
-- **GitHub** (Version control hosting platform)  
-- **VS Code** (Code editor)  
-- **Photoshop** (Image editing software)  
-- **Premiere Pro** (Video editing software)
-
-**Technologies**:  
-- **Node.js** (Server-side JavaScript, API development)  
-- **GraphQL** (Efficient querying, Data fetching)  
-- **Firebase** (Authentication, Real-time Database, Hosting)  
-- **SQL** (Database management and querying)  
-- **PostgreSQL** (Relational Database Management System)  
-- **MongoDB** (NoSQL Database)  
-- **Docker** (Containerization platform)  
-- **AWS** (Amazon Web Services) -->
 <p align="center">
     <a href="https://github.com/jbjzeehad/github-readme-streak-stats"><img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=jbjzeehad&theme=transparent&hide_border=true&stroke=0000"/></a>
     </p> 
@@ -69,8 +29,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/HTML.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/CSS.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/TailwindCSS-Dark.svg" alt="html" width="25" height="25"/></a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Figma-Dark.svg" alt="html" width="25" height="25"/></a>.
-<!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Bootstrap.svg" alt="html" width="25" height="25"/></a>-->
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Figma-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/React-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Redux.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/NextJS-Dark.svg" alt="html" width="25" height="25"/></a>.
@@ -82,7 +41,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MySQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/PostgreSQL-Dark.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/MongoDB.svg" alt="html" width="25" height=25"/></a>
-<!--   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Jest.svg" alt="html" width="25" height="25"/></a> -->
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/mongoose.svg" alt="html" width="25" height="25"/></a>.
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/Docker.svg" alt="html" width="25" height="25"/></a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/jbjzeehad/jbjzeehad/blob/main/icon/AWS-Dark.svg" alt="html" width="25" height="25"/></a>.
@@ -95,10 +53,5 @@
   <p align="center">
   <img title="" alt="" src="https://github-profile-trophy.vercel.app/?username=jbjzeehad&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
     </p>
-<table align="center">
-    <tr>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbjzeehad&hide_title=true&show_icons=true&hide_border=true&theme=transparent&text_color=008080&include_all_commits=true&rank_icon=percentile&show=prs_merged&hide=contribs,issues" /></td>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbjzeehad&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=transparent&langs_count=10&text_color=008080" /></td>
-    </tr>
-</table>
+
 
